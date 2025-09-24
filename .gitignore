@@ -1,0 +1,30 @@
+# Node modules
+/node_modules
+/server/node_modules
+/client/node_modules
+
+# Environment files
+/server/.env
+/client/.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build / Dist folders
+/client/build
+/server/dist
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: IDE / Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

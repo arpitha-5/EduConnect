@@ -1,4 +1,4 @@
-# Campus Connect E-Learning Platform
+# EduConnect E-Learning Platform
 
 A comprehensive e-learning platform built with React, Node.js, and MongoDB that provides a seamless learning experience with modern UI and extensive features.
 
@@ -232,6 +232,3 @@ The application will be running at `http://localhost:5969`
 - Flexible grids
 - Mobile-first approach
 - Cross-browser compatibility
-
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
