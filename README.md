@@ -1,7 +1,8 @@
 # EduConnect E-Learning Platform
 
 A comprehensive e-learning platform built with React, Node.js, and MongoDB that provides a seamless learning experience with modern UI and extensive features.
-<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/7c787829-bf50-4f2b-9002-a245ee28f54c" />
+
+<img width="1880" height="828" alt="image" src="https://github.com/user-attachments/assets/7c787829-bf50-4f2b-9002-a245ee28f54c" />
 
 ## 📱 Implemented Pages & Features
 
